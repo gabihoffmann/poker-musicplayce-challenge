@@ -9,6 +9,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #fafafa;
+    /* background: linear-gradient(180deg, rgba(26,74,28,1) 35%, rgba(48,136,52,1) 100%); */
     color:#333;
 }
 

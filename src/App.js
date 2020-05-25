@@ -3,8 +3,7 @@ import React from 'react';
 import './styles.css'
 //Components
 import Header from './components/Header/index';
-import Footer from './components/Footer'
-
+//Page
 import Main from './pages/main/index'
 
 function App(){
@@ -12,7 +11,7 @@ function App(){
     <div className="App">
       <Header />
       <Main />
-      <Footer />
+      
     </div>
   );
 }

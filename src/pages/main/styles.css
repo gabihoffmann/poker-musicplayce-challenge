@@ -1,0 +1,29 @@
+.main-poker{
+    max-width: 900px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+    flex: 1;
+}
+
+.winner-poker{
+    display: flex;
+    justify-content: center;
+    font-size: 1.8rem;
+}
+
+.players-poker{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.players-poker .btn{
+    align-self: center;
+    width: 100px;
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+
